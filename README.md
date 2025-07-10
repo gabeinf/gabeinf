@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on [Midst](https://github.com/gabeinf/Midst)
 
-- 🌱 I’m currently learning **IOS Development**
+- 🌱 I’m currently working with **IOS Development** with a focus in modern SwiftUI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
