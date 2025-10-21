@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Smith</h1>
-<h3 align="center">An React Native Developer From Sacramento, California</h3>
+<h3 align="center">A React Native Developer From Sacramento, California</h3>
 
 - 👨‍💻 I’m currently building mini projects
 
