@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Smith</h1>
 <h3 align="center">A React Native Developer From Sacramento, California</h3>
 
-- 👨‍💻 I’m currently building mini projects
+- 👨‍💻 I’m currently interning @RallySphere as a React Native Developer
 
 - 🌱 I’m currently working with **Web & Mobile | React & React Native**
 
